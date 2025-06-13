@@ -1,0 +1,23 @@
+<style>
+   body {color:rgb(18, 10, 10)}
+   a{color:rgb(181, 25, 228)}
+   body{background-color: aliceblue;
+   background-attachment: scroll;
+   background-repeat: no-repeat;
+   background-size: cover;}
+   table, th, td {border:2px solid rgb(13, 11, 2);
+   border-collapse: collapse;
+color: azure;}
+table{width;100%}
+ table,tr, th{border-spacing: 50px;}
+   th, td{ background-color: darkcyan;}
+   th{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+   hr{height:0px;
+   border:10px;
+   width:10%;
+   border-style:dotted none none;
+   border-color: rgb(154, 139, 139);
+   }
+   input:hover {background-color: antiquewhite;}
+</style>
